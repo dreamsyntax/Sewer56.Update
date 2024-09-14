@@ -17,7 +17,7 @@
 
   <ItemGroup>
     <PackageReference Include="NuGet.Packaging" Version="6.11.0" />
-    <PackageReference Include="NuGet.Protocol" Version="6.11.0" />
+    <PackageReference Include="NuGet.Protocol" Version="6.7.1" />
   </ItemGroup>
 
   <ItemGroup>
